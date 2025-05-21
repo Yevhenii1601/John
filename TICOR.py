@@ -1,2 +1,3 @@
-## Hello my friend
-print ("Hello my dear friend")
+## hello  Alex
+print ("Bye Alex")
+## Bye Alex
